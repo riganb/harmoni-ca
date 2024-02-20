@@ -1,0 +1,11 @@
+{
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit"
+	},
+	"eslint.validate": [
+		"javascript"
+	],
+	"eslint.options": {
+		"configFile": "/home/bruce/projects/harmoni-ca/.eslintrc.js"
+	}
+}
